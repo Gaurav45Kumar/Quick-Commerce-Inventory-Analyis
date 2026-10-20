@@ -1,0 +1,19 @@
+validation_check,actual_value,expected_value,status
+Total orders,20000.0,20000.0,PASS
+Commercial eligible orders,18372.0,18372.0,PASS
+Completed orders,14333.0,14333.0,PASS
+Completed GMV,28224720.0,28224720.0,PASS
+Average delivery minutes,41.3,41.3,PASS
+P90 delivery minutes,71.0,71.0,PASS
+SLA on-time %,42.5,42.5,PASS
+CX eligible orders,9826.0,9826.0,PASS
+Average customer rating,3.88,3.88,PASS
+Modelled contribution margin,4301584.56,4301584.56,PASS
+Contribution margin %,15.24,15.24,PASS
+Negative contribution order %,10.3,10.31,PASS
+Inventory reorder positions,130.0,130.0,PASS
+Recommended replenishment units,800.0,800.0,PASS
+Average stockout probability %,10.64,10.64,PASS
+DuckDB base tables,14.0,14.0,PASS
+SQL portfolio files,8.0,8.0,PASS
+CSV reporting files,17.0,17.0,PASS

@@ -1,0 +1,21 @@
+dark_store_id,dark_store_name,city,state,city_rank,network_tier,store_number
+DS_01_01,Kolkata Dark Store 01,Kolkata,West Bengal,1,Tier A,1
+DS_01_02,Kolkata Dark Store 02,Kolkata,West Bengal,1,Tier A,2
+DS_02_01,Delhi Dark Store 01,Delhi,Delhi,2,Tier A,1
+DS_02_02,Delhi Dark Store 02,Delhi,Delhi,2,Tier A,2
+DS_03_01,Ahmedabad Dark Store 01,Ahmedabad,Gujarat,3,Tier A,1
+DS_03_02,Ahmedabad Dark Store 02,Ahmedabad,Gujarat,3,Tier A,2
+DS_04_01,Chennai Dark Store 01,Chennai,Tamil Nadu,4,Tier B,1
+DS_04_02,Chennai Dark Store 02,Chennai,Tamil Nadu,4,Tier B,2
+DS_05_01,Pune Dark Store 01,Pune,Maharashtra,5,Tier A,1
+DS_05_02,Pune Dark Store 02,Pune,Maharashtra,5,Tier A,2
+DS_06_01,Hyderabad Dark Store 01,Hyderabad,Telangana,6,Tier B,1
+DS_06_02,Hyderabad Dark Store 02,Hyderabad,Telangana,6,Tier B,2
+DS_07_01,Jaipur Dark Store 01,Jaipur,Rajasthan,7,Tier B,1
+DS_07_02,Jaipur Dark Store 02,Jaipur,Rajasthan,7,Tier B,2
+DS_08_01,Bengaluru Dark Store 01,Bengaluru,Karnataka,8,Tier B,1
+DS_08_02,Bengaluru Dark Store 02,Bengaluru,Karnataka,8,Tier B,2
+DS_09_01,Lucknow Dark Store 01,Lucknow,Uttar Pradesh,9,Tier B,1
+DS_09_02,Lucknow Dark Store 02,Lucknow,Uttar Pradesh,9,Tier B,2
+DS_10_01,Mumbai Dark Store 01,Mumbai,Maharashtra,10,Tier B,1
+DS_10_02,Mumbai Dark Store 02,Mumbai,Maharashtra,10,Tier B,2

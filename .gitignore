@@ -1,0 +1,25 @@
+# Raw source datasets
+raw/
+data/raw/
+*.xlsx
+
+# Source archives
+archive.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environments
+.venv/
+venv/
+env/

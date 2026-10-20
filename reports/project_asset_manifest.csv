@@ -1,0 +1,28 @@
+asset_type,relative_path,size_kb
+SQL,sql/01_schema_and_quality.sql,3.3
+SQL,sql/02_commercial_performance.sql,4.07
+SQL,sql/03_dark_store_operations.sql,5.09
+SQL,sql/04_inventory_intelligence.sql,6.38
+SQL,sql/05_fulfilment_sla.sql,7.54
+SQL,sql/06_customer_experience.sql,6.31
+SQL,sql/07_management_priority.sql,8.38
+SQL,sql/08_profitability_unit_economics.sql,5.67
+Power BI Export,powerbi_exports/00_executive_kpis.csv,0.5
+Power BI Export,powerbi_exports/01_monthly_performance.csv,2.01
+Power BI Export,powerbi_exports/02_dark_store_scorecard.csv,3.0
+Power BI Export,powerbi_exports/03_inventory_control_tower.csv,70.62
+Power BI Export,powerbi_exports/04_inventory_priority.csv,23.55
+Power BI Export,powerbi_exports/05_weekly_store_category.csv,927.19
+Power BI Export,powerbi_exports/06_customer_experience_store.csv,1.22
+Power BI Export,powerbi_exports/07_dark_store_profitability.csv,4.41
+Power BI Export,powerbi_exports/08_category_profitability.csv,0.75
+Power BI Export,powerbi_exports/09_distance_profitability.csv,0.62
+Power BI Export,powerbi_exports/10_sla_profitability.csv,0.52
+Power BI Export,powerbi_exports/11_basket_profitability.csv,0.49
+Power BI Export,powerbi_exports/12_dim_dark_store.csv,1.25
+Power BI Export,powerbi_exports/13_dim_date.csv,46.35
+Power BI Export,powerbi_exports/14_inventory_assumptions.csv,0.19
+Power BI Export,powerbi_exports/15_profitability_assumptions.csv,0.18
+Power BI Export,powerbi_exports/99_export_manifest.csv,0.63
+Database,database/quick_commerce_intelligence.duckdb,9996.0
+Report,reports/final_validation_report.csv,0.76

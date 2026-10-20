@@ -1,0 +1,21 @@
+dark_store_id,dark_store_name,city,state,total_orders,completed_orders,completed_gmv,avg_delivery_minutes,avg_distance_km,sla_on_time_pct,avg_customer_rating,contribution_margin,contribution_margin_pct,avg_contribution_per_order,negative_order_share_pct,reorder_positions,replenishment_units,avg_stockout_probability_pct,max_inventory_priority_score
+DS_02_02,Delhi Dark Store 02,Delhi,Delhi,1039,760,1534750.0,41.81,5.23,42.44,3.94,235310.3,15.33,309.62,8.82,8,46.0,10.47,55.02
+DS_05_01,Pune Dark Store 01,Pune,Maharashtra,1036,738,1504950.0,40.56,5.2,43.3,3.86,231031.6,15.35,313.05,10.57,6,38.0,9.97,46.82
+DS_07_02,Jaipur Dark Store 02,Jaipur,Rajasthan,1053,755,1502010.0,40.71,5.18,43.08,3.83,227657.08,15.16,301.53,9.93,7,51.0,14.32,56.52
+DS_06_01,Hyderabad Dark Store 01,Hyderabad,Telangana,1054,762,1500460.0,42.2,5.23,41.34,3.82,227382.98,15.15,298.4,9.71,5,29.0,4.65,46.51
+DS_02_01,Delhi Dark Store 01,Delhi,Delhi,1018,737,1474580.0,40.38,5.18,43.36,3.85,226130.44,15.34,306.83,11.26,8,54.0,15.07,57.19
+DS_09_02,Lucknow Dark Store 02,Lucknow,Uttar Pradesh,966,696,1458320.0,41.72,5.36,41.05,3.87,224575.56,15.4,322.67,9.48,7,37.0,9.5,60.07
+DS_03_01,Ahmedabad Dark Store 01,Ahmedabad,Gujarat,1063,756,1450020.0,42.1,5.36,39.13,3.92,219049.26,15.11,289.75,10.45,6,42.0,13.44,50.85
+DS_01_02,Kolkata Dark Store 02,Kolkata,West Bengal,1038,760,1446140.0,41.93,5.25,40.63,3.82,219401.32,15.17,288.69,11.71,7,46.0,12.19,51.0
+DS_03_02,Ahmedabad Dark Store 02,Ahmedabad,Gujarat,1023,733,1439020.0,42.09,5.32,38.72,3.82,216903.56,15.07,295.91,11.19,5,30.0,7.59,48.32
+DS_08_01,Bengaluru Dark Store 01,Bengaluru,Karnataka,999,725,1437450.0,40.84,5.23,43.85,3.96,219188.7,15.25,302.33,11.03,6,35.0,9.66,53.59
+DS_04_02,Chennai Dark Store 02,Chennai,Tamil Nadu,1018,727,1430920.0,41.81,5.3,42.63,3.89,219140.66,15.31,301.43,11.14,7,51.0,15.69,62.56
+DS_01_01,Kolkata Dark Store 01,Kolkata,West Bengal,1017,737,1390720.0,43.58,5.57,38.73,3.91,209374.76,15.06,284.09,11.8,6,31.0,5.58,62.51
+DS_04_01,Chennai Dark Store 01,Chennai,Tamil Nadu,1042,732,1387640.0,40.79,5.21,43.25,3.91,208469.02,15.02,284.79,10.11,6,30.0,8.2,51.75
+DS_10_01,Mumbai Dark Store 01,Mumbai,Maharashtra,947,665,1381060.0,39.88,5.13,44.31,3.8,214364.58,15.52,322.35,8.72,6,41.0,13.68,64.74
+DS_05_02,Pune Dark Store 02,Pune,Maharashtra,990,700,1365340.0,42.31,5.38,41.88,3.97,207857.42,15.22,296.94,10.0,7,53.0,16.81,65.8
+DS_09_01,Lucknow Dark Store 01,Lucknow,Uttar Pradesh,941,675,1341510.0,41.15,5.19,42.24,3.93,205260.88,15.3,304.09,11.56,8,51.0,14.49,58.93
+DS_07_01,Jaipur Dark Store 01,Jaipur,Rajasthan,929,671,1315920.0,39.23,4.95,47.1,3.88,204144.16,15.51,304.24,9.84,8,35.0,4.06,52.21
+DS_08_02,Bengaluru Dark Store 02,Bengaluru,Karnataka,944,663,1308380.0,40.91,5.17,43.36,3.86,199650.94,15.26,301.13,9.65,6,34.0,8.35,51.49
+DS_10_02,Mumbai Dark Store 02,Mumbai,Maharashtra,948,668,1295360.0,40.84,5.14,44.71,3.83,196880.28,15.2,294.73,8.08,5,34.0,10.81,56.92
+DS_06_02,Hyderabad Dark Store 02,Hyderabad,Telangana,935,673,1260170.0,40.62,5.13,46.01,3.92,189811.06,15.06,282.04,10.7,6,32.0,8.22,65.29

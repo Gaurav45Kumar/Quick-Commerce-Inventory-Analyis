@@ -1,0 +1,2 @@
+total_orders,commercial_orders,completed_orders,completed_gmv,completed_aov,avg_delivery_minutes,p90_delivery_minutes,sla_on_time_pct,cx_eligible_orders,avg_customer_rating,modelled_merchandise_gross_profit,modelled_variable_cost_to_serve,modelled_contribution_margin,contribution_margin_pct,negative_order_share_pct,reorder_positions,recommended_replenishment_units,avg_stockout_probability_pct
+20000,18372,14333,28224720.0,1969.21,41.3,71.0,42.5,9826,3.88,5699962.6,1398378.04,4301584.56,15.24,10.3,130,800.0,10.64

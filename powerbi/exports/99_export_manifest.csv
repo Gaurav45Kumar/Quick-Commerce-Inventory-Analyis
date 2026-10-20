@@ -1,0 +1,17 @@
+file_name,rows,columns,size_kb
+00_executive_kpis.csv,1,18,0.5
+01_monthly_performance.csv,24,11,2.01
+02_dark_store_scorecard.csv,20,19,3.0
+03_inventory_control_tower.csv,160,42,70.62
+04_inventory_priority.csv,160,17,23.55
+05_weekly_store_category.csv,16800,8,927.19
+06_customer_experience_store.csv,20,7,1.22
+07_dark_store_profitability.csv,20,19,4.41
+08_category_profitability.csv,8,8,0.75
+09_distance_profitability.csv,4,9,0.62
+10_sla_profitability.csv,3,9,0.52
+11_basket_profitability.csv,4,8,0.49
+12_dim_dark_store.csv,20,7,1.25
+13_dim_date.csv,731,11,46.35
+14_inventory_assumptions.csv,8,3,0.19
+15_profitability_assumptions.csv,8,2,0.18
