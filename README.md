@@ -1,4 +1,4 @@
-# Quick-Commerce Operations, Inventory & Profitability Intelligence
+# Quick-Commerce Inventory Analysis
 
 ## Dark Store, Inventory, Last-Mile & Unit Economics Analytics
 
